@@ -27,7 +27,7 @@ internal class Program
                 /*socket.Connect(ipPoint);
                 socket.Send(data);*/
 
-                int bytes = 0;
+                //int bytes = 0;
                 string response = "";
                 data = new byte[1024]; // 1Kb
                 /*do
