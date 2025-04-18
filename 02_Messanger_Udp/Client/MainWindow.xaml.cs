@@ -86,15 +86,16 @@ namespace Client
     public class MessageInfo
     {
         public string Message { get; set; }
-        public DateTime Time { get; set; }
+        private DateTime time;
+        public string Time => time.ToLongTimeString();
         public MessageInfo(string text)
         {
             this.Message = text;
-            Time = DateTime.Now;
+            time = DateTime.Now;
         }
         public override string ToString()
         {
-            return $"{Message,-20} {Time.ToLongTimeString()}";
+            return $"{Message,-20} {Time}";
         }
     }
 }

@@ -32,6 +32,15 @@
             <TextBox Name="msgTextBox" VerticalContentAlignment="Center" FontSize="15" Padding="5" KeyDown="msgTextBox_KeyDown"></TextBox>
         </DockPanel>
         <TextBlock DockPanel.Dock="Top" FontWeight="Bold" FontSize="25" TextAlignment="Center">Chat:</TextBlock>
-        <ListBox ItemsSource="{Binding}"></ListBox>
+        <ListBox ItemsSource="{Binding}" HorizontalContentAlignment="Stretch">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <DockPanel>
+                        <Label DockPanel.Dock="Right"  Content="{Binding Time}" VerticalAlignment="Center"></Label>
+                        <TextBlock VerticalAlignment="Center" Text="{Binding Message}"></TextBlock>
+                    </DockPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
     </DockPanel>
 </Window>
