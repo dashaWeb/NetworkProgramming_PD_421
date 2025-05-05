@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dasha\\Programming\\Gropus\\NetworkProgramming_PD_421-master\\06_SendMessage_Smtp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0386A39E-4A01-4227-BCBC-CC63742426F4}|SendMessage_Smtp\\SendMessage_Smtp.csproj|d:\\dasha\\programming\\gropus\\networkprogramming_pd_421-master\\06_sendmessage_smtp\\sendmessage_smtp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0386A39E-4A01-4227-BCBC-CC63742426F4}|SendMessage_Smtp\\SendMessage_Smtp.csproj|solutionrelative:sendmessage_smtp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0386A39E-4A01-4227-BCBC-CC63742426F4}|SendMessage_Smtp\\SendMessage_Smtp.csproj|d:\\dasha\\programming\\gropus\\networkprogramming_pd_421-master\\06_sendmessage_smtp\\sendmessage_smtp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0386A39E-4A01-4227-BCBC-CC63742426F4}|SendMessage_Smtp\\SendMessage_Smtp.csproj|solutionrelative:sendmessage_smtp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Dasha\\Programming\\Gropus\\NetworkProgramming_PD_421-master\\06_SendMessage_Smtp\\SendMessage_Smtp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SendMessage_Smtp\\MainWindow.xaml",
+              "ToolTip": "D:\\Dasha\\Programming\\Gropus\\NetworkProgramming_PD_421-master\\06_SendMessage_Smtp\\SendMessage_Smtp\\MainWindow.xaml",
+              "RelativeToolTip": "SendMessage_Smtp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-05T11:51:52.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Dasha\\Programming\\Gropus\\NetworkProgramming_PD_421-master\\06_SendMessage_Smtp\\SendMessage_Smtp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SendMessage_Smtp\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Dasha\\Programming\\Gropus\\NetworkProgramming_PD_421-master\\06_SendMessage_Smtp\\SendMessage_Smtp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SendMessage_Smtp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T11:51:52.337Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
