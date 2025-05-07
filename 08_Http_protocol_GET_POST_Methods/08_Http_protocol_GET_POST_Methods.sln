@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Http_protocol_GET_POST_Methods", "Http_protocol_GET_POST_Methods\Http_protocol_GET_POST_Methods.csproj", "{4EE764E0-552D-45DC-BC0D-B6B7685A24ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EE764E0-552D-45DC-BC0D-B6B7685A24ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EE764E0-552D-45DC-BC0D-B6B7685A24ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EE764E0-552D-45DC-BC0D-B6B7685A24ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EE764E0-552D-45DC-BC0D-B6B7685A24ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {957F4B8E-C333-4545-A6E9-D05D5E7401A8}
+	EndGlobalSection
+EndGlobal
